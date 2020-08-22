@@ -34,3 +34,5 @@ create a two dataset folders, 'dataset_train'and 'dataset_predict' respectively.
 **predictions_and_finding_similar_images.py** - we predict and find similar images using Nearestneighbors with cosine distance. And plot them using matplotlib.
 
 **Note:** This may not be final model since it is not performing well, due to submission data of this assignment, I have created a repository. I will work on this and update gradually. Thank You.
+
+**Edited:** I added using-pre-trained-model.ipynb file, which uses pre-trained model. You can use any other pre-trained model as well.
