@@ -35,4 +35,4 @@ create a two dataset folders, 'dataset_train'and 'dataset_predict' respectively.
 
 **Note:** This may not be final model since it is not performing well, due to submission data of this assignment, I have created a repository. I will work on this and update gradually. Thank You.
 
-**Edited:** I added using-pre-trained-model.ipynb file, which uses pre-trained model. You can use any other pre-trained model as well.
+**Edited:** I added using-pre-trained-model.ipynb file, which uses pre-trained model. You can use any other pre-trained model as well. I also added using_dimentionality_reduction.py file, I used PCA then after t-SNE and using NearestNeighbors finding k-similar images.
